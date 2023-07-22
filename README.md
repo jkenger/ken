@@ -22,6 +22,7 @@
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
 - 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase, SQL and PostgreSQL)
+- 📝 What project I'm currently doing: RFID-Based Attendance Management System with Payroll for BFAR-Tanay, Portfolio.
 - ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
 - 📫 How to reach me: &nbsp; johnkgervacio@gmail.com
 
