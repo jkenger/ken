@@ -21,7 +21,7 @@
 
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
-- 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase)
+- 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase, SQL and PostgreSQL)
 - ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
 - 📫 How to reach me: &nbsp; johnkgervacio@gmail.com
 
