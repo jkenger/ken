@@ -1,22 +1,9 @@
-<div align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/gervacioken/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/kenwuuuu">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/gervacio_ken">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>
 
 
-<h1>Hey there, I'm Ken Gervacio - Front-End Developer🌊</h1>
 
+<h1>Hey there, I'm Ken Gervacio - Full Stack Developer🌊</h1>
 
-### 💻 &nbsp;About Me :
+Passionate about web development, I specialize in backend technologies like Node/Express JS and MongoDB, while also leading the creation of a government agency website for a thesis project. Currently delving into the captivating realm of front-end development with React JS, I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications. My journey involves constant growth, tackling diverse projects, and embracing cutting-edge technologies such as Next JS with Supabase, all aimed at delivering excellence and bringing innovative ideas to life. Let's connect and collaborate on impactful ventures!
 
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
@@ -24,11 +11,9 @@
 - 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase, SQL and PostgreSQL)
 - 📝 What project I'm currently doing: revision of RFID-Based Attendance Management System with Payroll for BFAR-Tanay and Website Portfolio.
 - ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
-- 📫 How to reach me: &nbsp; johnkgervacio@gmail.com
+- 📫 How to reach me: &nbsp; [Gmail](johnkgervacio@gmail.com)   [LinkedIn](https://www.linkedin.com/in/gervacioken/">)   [Facebook](https://www.facebook.com/kenwuuuu)   [Twitter](https://twitter.com/gervacio_ken)
 
----
-
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,7 +33,7 @@
           
 </p>
 
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jkenger&theme=transparent)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkenger&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
