@@ -11,7 +11,11 @@ Passionate about web development, I specialize in backend technologies like Node
 - 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase, SQL and PostgreSQL)
 - 📝 What project I'm currently doing: revision of RFID-Based Attendance Management System with Payroll for BFAR-Tanay and Website Portfolio.
 - ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
-- 📫 How to reach me: &nbsp; [Gmail](johnkgervacio@gmail.com)   [LinkedIn](https://www.linkedin.com/in/gervacioken/">)   [Facebook](https://www.facebook.com/kenwuuuu)   [Twitter](https://twitter.com/gervacio_ken)
+- 📫 How to reach me: &nbsp;
+   - johnkgervacio@gmail.com
+   - [LinkedIn](https://www.linkedin.com/in/gervacioken/">)
+   - [Facebook](https://www.facebook.com/kenwuuuu)
+   - [Twitter](https://twitter.com/gervacio_ken)
 
 ## 🛠 &nbsp;Languages and Tools
 
