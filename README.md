@@ -3,7 +3,7 @@
 
 <h1>Hey there, I'm Ken Gervacio - Full Stack Developer🌊</h1>
 
-Passionate about web development, I specialize in backend technologies like Node/Express JS and MongoDB, while also leading the creation of a government agency website for a thesis project. Currently delving into the captivating realm of front-end development with React JS, I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications. My journey involves constant growth, tackling diverse projects, and embracing cutting-edge technologies such as Next JS with Supabase, all aimed at delivering excellence and bringing innovative ideas to life. Let's connect and collaborate on impactful ventures!
+I specialize in back-end technologies like Node/Express JS and MongoDB. Currently exploring into the space of front-end development with React JS, I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications. My journey involves constant growth, tackling diverse projects, and embracing cutting-edge technologies, all aimed at delivering excellence and bringing innovative ideas to life.
 
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
