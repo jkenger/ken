@@ -13,7 +13,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
 - 📫 How to reach me: &nbsp;
    - johnkgervacio@gmail.com
-   - [LinkedIn](https://www.linkedin.com/in/gervacioken/">)
+   - [LinkedIn](https://www.linkedin.com/in/gervacioken/")
    - [Facebook](https://www.facebook.com/kenwuuuu)
    - [Twitter](https://twitter.com/gervacio_ken)
 
