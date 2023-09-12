@@ -8,10 +8,17 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
 - ♟  Experienced working with Back-end libraries and tools like: Node/ExpressJS, MongoDB, and POSTMAN
-- 🏫 What I'm currently Learning: (ReactJS, NextJS, Prisma, Supabase, SQL and PostgreSQL)
-- 📝 What project I'm currently doing: revision of RFID-Based Attendance Management System with Payroll for BFAR-Tanay and Website Portfolio.
-- ⚡ In my free time, I watch interesting tech related videos from youtube (eg. Fireship).
+- 🏫 What I'm currently Learning:
+
+   - **Typescript**
+   - **PHP/Laravel**
+
+- 📝 What project I'm currently doing:
+
+   - **TypeNotes (A note management system)**
+
 - 📫 How to reach me: &nbsp;
+
    - johnkgervacio@gmail.com
    - [LinkedIn](https://www.linkedin.com/in/gervacioken/")
    - [Facebook](https://www.facebook.com/kenwuuuu)
