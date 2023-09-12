@@ -7,7 +7,13 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
-- ♟  Experienced working with Back-end libraries and tools like: Node/ExpressJS, MongoDB, and POSTMAN
+- ♟ Experienced and Currently working with:
+   
+   - **React**
+   - **Node.js**
+   - **ExpressJS**
+   - **MongoDB**
+   
 - 🏫 What I'm currently Learning:
 
    - **Typescript**
