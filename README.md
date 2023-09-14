@@ -3,7 +3,7 @@
 
 <h1>Hey there, I'm Ken Gervacio - Full Stack Developer🌊</h1>
 
-I specialize in back-end technologies like Node/Express JS and MongoDB. Currently exploring into the space of front-end development with ReactJS with Typescript and other libraries like Redux, ReduxTK, as well as remote state fetching libraries like ReactTK Query and React Query. I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications. My journey involves constant growth, tackling diverse projects, and embracing cutting-edge technologies, all aimed at delivering excellence and bringing innovative ideas to life.
+I specialize in back-end technologies like Node/Express JS and MongoDB. Currently exploring into the space of front-end development with ReactJS with Typescript. I'm dedicated to crafting seamless user interfaces and integrating this expertise into full-stack applications.
 
 - 🏅 Graduated Cum Laude in STI-College Ortigas-Cainta in Computer Science specialized in Web Development.
 - 👨‍✈️ Exploring Front-end and Back-end Technologies.
