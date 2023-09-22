@@ -19,9 +19,14 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
    - **Typescript**
    - **PHP/Laravel**
 
+- ✅ Projects Done:
+
+   - [TypeNotes](https://www.linkedin.com/in/gervacioken/")
+   - [BFARMs](https://bfarms.onrender.com/)
+
 - 📝 What project I'm currently doing:
 
-   - **TypeNotes (A note management system)**
+   - **Jobify: Personal Job Tracker**
 
 - 📫 How to reach me: &nbsp;
 
