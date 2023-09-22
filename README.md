@@ -21,8 +21,8 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - ✅ Projects Done:
 
-   - **[TypeNotes](https://www.linkedin.com/in/gervacioken/")**
-   - **[BFARMs](https://bfarms.onrender.com/)**
+   - **[TypeNotes: Note Management System](https://www.linkedin.com/in/gervacioken/")**
+   - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
 
 - 📝 What project I'm currently doing:
 
