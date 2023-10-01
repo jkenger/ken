@@ -23,10 +23,11 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
    - **[TypeNotes: Note Management System](https://www.linkedin.com/in/gervacioken/")**
    - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
+   - **[Jobify: Personal Job Tracker](https://jobify-rl4k.onrender.com/)**
 
 - 📝 What project I'm currently doing:
 
-   - **Jobify: Personal Job Tracker**
+   - 
 
 - 📫 How to reach me: &nbsp;
 
