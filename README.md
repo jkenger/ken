@@ -17,7 +17,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - 🏫 What I'm currently Learning:
 
    - **Typescript**
-   - **PHP/Laravel**
+   - **NextJS**
 
 - ✅ Projects Done:
 
