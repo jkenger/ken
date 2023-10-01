@@ -21,11 +21,14 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - ✅ Projects Done:
 
-   - **[TypeNotes: Note Management System]**
+   - **TypeNotes: Note Management System**
+     
       - Demo: [Vercel](https://typenotes-red.vercel.app/)
       - Repo: [Github](https://github.com/jkenger/typenotes)
+        
    - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
-   - **[Jobify: Personal Job Tracker]**
+   - **Jobify: Personal Job Tracker**
+     
       - Demo: [Render](https://jobify-rl4k.onrender.com/)
       - Repo: [Github](https://github.com/jkenger/jobify)
 
