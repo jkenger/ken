@@ -23,7 +23,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
    - **TypeNotes: Note Management System**
      
-      - Demo: [Vercel](https://typenotes-red.vercel.app/)
+      - Demo: [Vercel](https://tsnotes.onrender.com/)
       - Repo: [Github](https://github.com/jkenger/typenotes)
         
    - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
