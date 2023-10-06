@@ -34,7 +34,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
 - 📝 What project I'm currently doing:
 
-   - Jobify (React Query integration)
+   - Pread.me: Readme Editor with AI Integration
 
 - 📫 How to reach me: &nbsp;
 
