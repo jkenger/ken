@@ -32,7 +32,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
       - Demo: [Render](https://jobify-rl4k.onrender.com/)
       - Repo: [Github](https://github.com/jkenger/jobify)
     
-   - **Pread.me: Readme Editor with AI Integration**
+   - **Pread.me: Readme Editor with CHATGPT Assistance**
  
       - Demo: [Vercel](https://pread-me.vercel.app/)
       - Repo: [Github](https://github.com/jkenger/pread-me)
