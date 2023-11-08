@@ -10,6 +10,7 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - ♟ Experienced and Currently working with:
    
    - **React**
+   - **Typescript**
    - **Node.js**
    - **ExpressJS**
    - **MongoDB**
