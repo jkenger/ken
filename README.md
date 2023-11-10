@@ -39,8 +39,9 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
       - Demo: [Vercel](https://pread-me.vercel.app/)
       - Repo: [Github](https://github.com/jkenger/pread-me)
 
-- 📝 What project I'm currently doing:
+- 📝 What project I'm currently doing
 
+  - BFARMS: RFID Based Attendance and Payroll Management System
 
 - 📫 How to reach me: &nbsp;
 
