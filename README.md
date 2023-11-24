@@ -24,18 +24,22 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 - ✅ Projects Done:
 
    - **TypeNotes: Note Management System**
+     <br> <i> MongoDB, React, Typescript, Nodejs, Express </i>
      
       - Demo: [Vercel](https://tsnotes.onrender.com/)
       - Repo: [Github](https://github.com/jkenger/typenotes)
         
    - **[BFAR-MS: RFID Based Attendance and Payroll Management System](https://bfarms.onrender.com/)**
+     <br> <i> Express, Nodejs, HTML & CSS, EJS, Bootstrap </i>
    - **Jobify: Personal Job Tracker**
+     <br> <i> MongoDB, React, Typescript, Nodejs, Express </i>
      
       - Demo: [Render](https://jobify-rl4k.onrender.com/)
       - Repo: [Github](https://github.com/jkenger/jobify)
     
    - **Pread.me: Readme Editor with ChatGPT Assistance**
- 
+     <br> <i> React, Typescript, DND </i>
+    
       - Demo: [Vercel](https://pread-me.vercel.app/)
       - Repo: [Github](https://github.com/jkenger/pread-me)
 
