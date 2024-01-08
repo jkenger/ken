@@ -14,11 +14,11 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
    - **Node.js**
    - **ExpressJS**
    - **MongoDB**
+   - **PostgreSQL**
    
 - 🏫 What I'm currently Learning:
 
-   - **SQL**
-   - **PostgreSQL**
+   - **Prisma**
    - **NextJS**
 
 - ✅ Projects Done:
