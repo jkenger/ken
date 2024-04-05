@@ -20,6 +20,8 @@ I specialize in back-end technologies like Node/Express JS and MongoDB. Currentl
 
    - **Prisma**
    - **NextJS**
+   - **NestJS**
+   - **Xano**
 
 - ✅ Projects Done:
 
